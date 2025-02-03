@@ -1,0 +1,7 @@
+
+{
+    "auto_review_all_prs": true,
+    "blacklisted_branches": ["main"],
+    "supported_pr_creators": ["MyUser"],
+    "blacklisted_pr_title_regexes": ["\\[bot\\]"]
+}
